@@ -1,0 +1,29 @@
+{
+  "title": "",
+  "subtitle": "",
+  "type": "report",
+  "status": "published",
+  "date": "YYYY-MM-DD",
+  "author": "Hunter Hughes",
+  "authorRole": "",
+  "series": "",
+  "reportNumber": "",
+  "summary": "",
+  "keywords": [],
+  "topics": [],
+  "classification": {
+    "scheme": "JEL",
+    "codes": [],
+    "gloss": ""
+  },
+  "dataAndMethod": "",
+  "licence": {
+    "name": "CC BY-NC-ND 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "note": ""
+  },
+  "language": "en",
+  "pages": null,
+  "pdf": "source.pdf",
+  "links": []
+}

@@ -1,0 +1,9 @@
+{
+  "name": "quantity-h-heuristics",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && python3 -m http.server 8788 --directory dist"
+  }
+}

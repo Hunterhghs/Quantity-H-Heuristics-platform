@@ -1,0 +1,45 @@
+{
+  "title": "Air Pollution and the Atmospheric Pollution Cycle",
+  "subtitle": "Toxic Feedback Loops, Short-Lived Climate Pollutants, and the Compounding Health and Systemic Burdens in the Polycrisis Apocalypse",
+  "type": "report",
+  "status": "published",
+  "date": "2026-10-29",
+  "author": "Hunter Hughes",
+  "authorRole": "Founder and CEO, H Heuristics",
+  "series": "Global Strategic Monograph Series",
+  "summary": "Air pollution sits inside the polycrisis as a transmission hub. Fine particles and short-lived climate pollutants damage health, suppress staple crops, and warm the climate. A hotter climate returns more ozone and wildfire smoke to the air. This monograph follows that cycle from aerosol physics through the macroeconomy and a 2026–2040 abatement path.",
+  "keywords": [
+    "air pollution",
+    "PM2.5",
+    "ultrafine particles",
+    "short-lived climate pollutants",
+    "black carbon",
+    "tropospheric ozone",
+    "household air pollution",
+    "wildfire smoke",
+    "polycrisis",
+    "human capital",
+    "airshed governance"
+  ],
+  "topics": [
+    "Air pollution",
+    "Climate",
+    "Public health",
+    "Economic development",
+    "Agriculture"
+  ],
+  "classification": {
+    "scheme": "JEL",
+    "codes": ["Q53", "Q54", "I18", "I12", "O15", "J24", "Q15"],
+    "gloss": "air pollution; climate; public health; health behavior; human development; human capital and labor productivity; agriculture and environment"
+  },
+  "dataAndMethod": "The monograph synthesizes published epidemiology, atmospheric chemistry, and institutional assessments. The scholarly apparatus names the core sources, among them the Lancet Commission on pollution and health, the WHO global air quality guidelines, the Health Effects Institute State of Global Air 2024, IPCC Sixth Assessment Report Working Group I, and the World Bank assessment of the global health cost of PM2.5. Each exhibit in the PDF carries its own source line, and those lines are repeated in the web text.",
+  "licence": {
+    "name": "Unrestricted open access",
+    "url": "",
+    "note": "Institutional Standard · Unrestricted Open Access Monograph"
+  },
+  "language": "en",
+  "pages": 40,
+  "pdf": "source.pdf"
+}
